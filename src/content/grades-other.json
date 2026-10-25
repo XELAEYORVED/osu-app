@@ -10,79 +10,92 @@
    {
     "id": "kyu9-sanchin-dachi",
     "name": "Sanchin dachi",
-    "detail": "",
+    "detail": "Position du sablier",
+    "description": "Pieds largeur d'épaules, orteils du pied arrière au niveau du talon avant, pointes et genoux tournés vers l'intérieur, bassin rentré, tout le corps contracté.",
     "category": "positions"
    },
    {
     "id": "kyu9-kokutsu-dachi",
     "name": "Kokutsu dachi",
     "detail": "ido-geiko, mawate, naore",
+    "description": "Position arrière : environ 70 % du poids sur la jambe arrière fléchie, pied arrière tourné à 90°, pied avant pointé vers l'avant. À faire en avançant (ido-geiko), en demi-tour (mawate) et en revenant (naore).",
     "category": "positions"
    },
    {
     "id": "kyu9-musubi-dachi",
     "name": "Musubi dachi",
-    "detail": "",
+    "detail": "Position du salut",
+    "description": "Talons joints, pointes ouvertes en V. C’est la position du salut.",
     "category": "positions"
    },
    {
     "id": "kyu9-seiken-ago-uchi",
     "name": "Seiken ago uchi",
-    "detail": "",
+    "detail": "Poing au menton",
+    "description": "Frappe montante du poing au menton, sur une trajectoire courte du bas vers le haut.",
     "category": "bras"
    },
    {
     "id": "kyu9-seiken-gyaku-tsuki-jodan-chudan-gedan",
     "name": "Seiken gyaku tsuki jodan/chudan/gedan",
-    "detail": "",
+    "detail": "Poing du bras opposé",
+    "description": "Coup de poing du bras opposé à la jambe avant, avec une forte rotation des hanches. Jodan, chudan et gedan.",
     "category": "bras"
    },
    {
     "id": "kyu9-seiken-chudan-uchi-uke",
     "name": "Seiken chudan uchi uke",
-    "detail": "",
+    "detail": "De l'intérieur vers l'extérieur",
+    "description": "Blocage moyen : le poing part sous l'aisselle opposée et l'avant-bras se redresse à la verticale, de l'intérieur vers l'extérieur.",
     "category": "blocages"
    },
    {
     "id": "kyu9-seiken-chudan-soto-uke",
     "name": "Seiken chudan soto uke",
     "detail": "zenkutsu, kokutsu, sanchin",
+    "description": "Blocage moyen de l'extérieur vers l'intérieur : le poing part près de l'oreille et l'avant-bras balaie devant le corps. En zenkutsu, kokutsu et sanchin dachi.",
     "category": "blocages"
    },
    {
     "id": "kyu9-mae-geri-chudan-chusoku",
     "name": "Mae geri chudan chusoku",
-    "detail": "",
+    "detail": "Coup de pied avant au corps",
+    "description": "Genou armé haut, la jambe se détend, on frappe avec le bol du pied, orteils relevés, puis on ramène la jambe.",
     "category": "jambes"
    },
    {
     "id": "kyu9-taikyoku-sono-ichi-sono-ni",
     "name": "Taikyoku sono ichi, sono ni",
-    "detail": "",
+    "detail": "Premiers kata",
+    "description": "Premiers kata, en forme de H. Sono ichi : gedan barai et oi tsuki chudan en zenkutsu dachi. Sono ni : même tracé, coups de poing jodan.",
     "category": "kata"
    },
    {
     "id": "kyu9-sanbon-kumite-option",
     "name": "Sanbon kumite (option)",
-    "detail": "",
+    "detail": "Trois attaques annoncées",
+    "description": "Exercice à deux sur trois attaques annoncées : on recule en bloquant, puis on contre-attaque.",
     "category": "autres"
    },
    {
     "id": "kyu9-respiration-nogare-omote-ura",
     "name": "Respiration : Nogare (omote/ura)",
-    "detail": "",
+    "detail": "Respiration calme",
+    "description": "Respiration calme et contrôlée (omote et ura), pour récupérer et se recentrer.",
     "category": "autres"
    },
    {
     "id": "kyu9-histoire-kokoro",
     "name": "Histoire + Kokoro",
-    "detail": "",
+    "detail": "Connaissances",
+    "description": "Histoire du Kyokushin et Kokoro : l’esprit, l’attitude du pratiquant.",
     "category": "autres"
    },
    {
     "id": "kyu9-stamina-30-30-15",
     "name": "Stamina 30/30/15",
-    "detail": "",
+    "detail": "Condition physique",
+    "description": "30 sauts accroupis, 30 abdos, 15 pompes.",
     "category": "autres"
    }
   ]
@@ -98,73 +111,85 @@
    {
     "id": "kyu8-kiba-dachi",
     "name": "Kiba dachi",
-    "detail": "",
+    "detail": "Position du cavalier",
+    "description": "Pieds parallèles, environ deux largeurs d'épaules, genoux poussés vers l'extérieur, dos droit, poids au centre.",
     "category": "positions"
    },
    {
     "id": "kyu8-shita-tsuki",
     "name": "Shita tsuki",
-    "detail": "",
+    "detail": "Poing vers le haut",
+    "description": "Coup de poing court vers le haut, paume vers le ciel, sous les côtes ou au plexus.",
     "category": "bras"
    },
    {
     "id": "kyu8-jun-tsuki-jodan-chudan-gedan",
     "name": "Jun tsuki jodan/chudan/gedan",
-    "detail": "",
+    "detail": "Poing du bras avant",
+    "description": "Coup de poing du bras avant, sur place, sans faire de pas. Jodan, chudan et gedan.",
     "category": "bras"
    },
    {
     "id": "kyu8-tate-tsuki-jodan-chudan-gedan",
     "name": "Tate tsuki jodan/chudan/gedan",
-    "detail": "",
+    "detail": "Poing vertical",
+    "description": "Coup de poing vertical, pouce vers le haut. Jodan, chudan et gedan.",
     "category": "bras"
    },
    {
     "id": "kyu8-seiken-morote-chudan-uchi-uke",
     "name": "Seiken morote chudan uchi uke",
-    "detail": "",
+    "detail": "Uchi uke des deux bras",
+    "description": "Chudan uchi uke fait avec les deux bras en même temps.",
     "category": "blocages"
    },
    {
     "id": "kyu8-seiken-chudan-uchi-uke-gedan-barai",
     "name": "Seiken chudan uchi uke / gedan barai",
-    "detail": "",
+    "detail": "Haut et bas à la fois",
+    "description": "Un bras fait uchi uke chudan pendant que l'autre fait gedan barai, puis on inverse. Protège le haut et le bas à la fois.",
     "category": "blocages"
    },
    {
     "id": "kyu8-mae-geri-jodan",
     "name": "Mae geri jodan",
-    "detail": "",
+    "detail": "Coup de pied avant au visage",
+    "description": "Mae geri au visage : il faut armer le genou plus haut.",
     "category": "jambes"
    },
    {
     "id": "kyu8-ago-mae-geri",
     "name": "Ago mae geri",
-    "detail": "",
+    "detail": "Coup de pied au menton",
+    "description": "Coup de pied avant qui monte vers le menton.",
     "category": "jambes"
    },
    {
     "id": "kyu8-taikyoku-sono-san",
     "name": "Taikyoku sono san",
-    "detail": "",
+    "detail": "Kata",
+    "description": "Même tracé que les Taikyoku précédents, avec des blocages chudan en kokutsu dachi.",
     "category": "kata"
    },
    {
     "id": "kyu8-yakusoku-ippon-kumite",
     "name": "Yakusoku ippon kumite",
-    "detail": "",
+    "detail": "Combat convenu",
+    "description": "Combat convenu sur une seule attaque : blocage puis contre-attaque décisive.",
     "category": "autres"
    },
    {
     "id": "kyu8-ren-raku-a-b-option",
     "name": "Ren raku A/B (option)",
-    "detail": "",
+    "detail": "Enchaînements",
+    "description": "Enchaînements de techniques imposés.",
     "category": "autres"
    },
    {
     "id": "kyu8-stamina-40-40-20",
     "name": "Stamina 40/40/20",
-    "detail": "",
+    "detail": "Condition physique",
+    "description": "40 sauts accroupis, 40 abdos, 20 pompes.",
     "category": "autres"
    }
   ]
@@ -180,91 +205,106 @@
    {
     "id": "kyu7-neko-ashi-dachi",
     "name": "Neko ashi dachi",
-    "detail": "",
+    "detail": "Position du chat",
+    "description": "Presque tout le poids sur la jambe arrière fléchie, le pied avant touche le sol du bout des orteils.",
     "category": "positions"
    },
    {
     "id": "kyu7-tetsui-komekami-uchi",
     "name": "Tetsui komekami uchi",
-    "detail": "",
+    "detail": "Marteau à la tempe",
+    "description": "Poing marteau (côté auriculaire) en arc vers la tempe.",
     "category": "bras"
    },
    {
     "id": "kyu7-tetsui-oroshi-ganmen-uchi",
     "name": "Tetsui oroshi ganmen uchi",
-    "detail": "",
+    "detail": "Marteau de haut en bas",
+    "description": "Poing marteau de haut en bas sur le visage.",
     "category": "bras"
    },
    {
     "id": "kyu7-tetsui-hizo-uchi",
     "name": "Tetsui hizo uchi",
-    "detail": "",
+    "detail": "Marteau dans le flanc",
+    "description": "Poing marteau horizontal dans le flanc.",
     "category": "bras"
    },
    {
     "id": "kyu7-tetsui-yoko-uchi",
     "name": "Tetsui yoko uchi",
     "detail": "jodan/chudan/gedan",
+    "description": "Poing marteau latéral. Jodan, chudan et gedan.",
     "category": "bras"
    },
    {
     "id": "kyu7-seiken-mawashi-gedan-barai",
     "name": "Seiken mawashi gedan barai",
-    "detail": "",
+    "detail": "Balayage circulaire",
+    "description": "Gedan barai sur une trajectoire circulaire : le bras décrit un cercle pour dégager une attaque basse.",
     "category": "blocages"
    },
    {
     "id": "kyu7-shuto-mawashi-uke",
     "name": "Shuto mawashi uke",
     "detail": "kokutsu",
+    "description": "Blocage circulaire des deux mains ouvertes, en kokutsu dachi : les mains tournent, saisissent et repoussent l’attaque.",
     "category": "blocages"
    },
    {
     "id": "kyu7-mae-chusoku-keage",
     "name": "Mae chusoku keage",
-    "detail": "",
+    "detail": "Jambe tendue vers l’avant",
+    "description": "Jambe tendue qui monte droit devant, pour l’assouplissement et le contrôle.",
     "category": "jambes"
    },
    {
     "id": "kyu7-teisoku-mawashi-soto-keage",
     "name": "Teisoku mawashi soto keage",
-    "detail": "",
+    "detail": "Cercle vers l’extérieur",
+    "description": "Jambe tendue qui décrit un cercle de l'intérieur vers l'extérieur, on frappe avec la plante du pied.",
     "category": "jambes"
    },
    {
     "id": "kyu7-haisoku-mawashi-uchi-keage",
     "name": "Haisoku mawashi uchi keage",
-    "detail": "",
+    "detail": "Cercle vers l’intérieur",
+    "description": "Jambe tendue qui décrit un cercle de l'extérieur vers l'intérieur, on frappe avec le cou-de-pied.",
     "category": "jambes"
    },
    {
     "id": "kyu7-sokuto-yoko-keage",
     "name": "Sokuto yoko keage",
-    "detail": "",
+    "detail": "Jambe tendue sur le côté",
+    "description": "Jambe tendue qui monte sur le côté, tranchant du pied vers l'extérieur.",
     "category": "jambes"
    },
    {
     "id": "kyu7-pinan-sono-ichi",
     "name": "Pinan sono ichi",
-    "detail": "",
+    "detail": "Kata",
+    "description": "Premier Pinan : enchaîne les positions et blocages de base.",
     "category": "kata"
    },
    {
     "id": "kyu7-jiyu-kumite-52-min",
     "name": "Jiyu kumite 5×2 min",
-    "detail": "",
+    "detail": "Combat libre",
+    "description": "Combat libre : 5 rounds de 2 minutes.",
     "category": "autres"
    },
    {
     "id": "kyu7-ibuki-sankai",
     "name": "Ibuki sankai",
-    "detail": "",
+    "detail": "Respiration dure",
+    "description": "Respiration Ibuki, trois fois : expiration longue et forte avec tout le corps contracté.",
     "category": "autres"
    },
    {
     "id": "kyu7-stamina-50-50-25",
     "name": "Stamina 50/50/25",
-    "detail": "",
+    "detail": "Condition physique",
+    "description": "50 sauts accroupis, 50 abdos, 25 pompes.",
     "category": "autres"
    }
   ]
@@ -280,67 +320,78 @@
    {
     "id": "kyu6-tsuru-ashi-dachi",
     "name": "Tsuru ashi dachi",
-    "detail": "",
+    "detail": "Position de la grue",
+    "description": "En équilibre sur une jambe, l’autre pied remonté contre le genou.",
     "category": "positions"
    },
    {
     "id": "kyu6-uraken-shomen-sayu-hizo-mawashi-oroshi-uchi",
     "name": "Uraken shomen / sayu / hizo / mawashi / oroshi uchi",
-    "detail": "",
+    "detail": "Revers du poing",
+    "description": "Frappes avec le revers du poing, en fouettant le coude. Shomen : de face, au visage. Sayu : sur les côtés. Hizo : dans le flanc. Mawashi : circulaire. Oroshi : de haut en bas.",
     "category": "bras"
    },
    {
     "id": "kyu6-nihon-nukite",
     "name": "Nihon nukite",
-    "detail": "",
+    "detail": "Pique de deux doigts",
+    "description": "Pique de deux doigts tendus (index et majeur), vers les yeux.",
     "category": "bras"
    },
    {
     "id": "kyu6-yohon-nukite",
     "name": "Yohon nukite",
-    "detail": "",
+    "detail": "Pique de quatre doigts",
+    "description": "Pique des quatre doigts tendus, vers le plexus ou la gorge.",
     "category": "bras"
    },
    {
     "id": "kyu6-seiken-juji-uke-jodan-gedan",
     "name": "Seiken juji uke jodan/gedan",
-    "detail": "",
+    "detail": "Blocage en croix",
+    "description": "Poignets croisés. Jodan : au-dessus de la tête. Gedan : contre un coup de pied bas.",
     "category": "blocages"
    },
    {
     "id": "kyu6-kansetsu-geri",
     "name": "Kansetsu geri",
-    "detail": "",
+    "detail": "Coup de pied au genou",
+    "description": "Coup de pied à l'articulation du genou, avec le tranchant ou le talon.",
     "category": "jambes"
    },
    {
     "id": "kyu6-chudan-yoko-geri",
     "name": "Chudan yoko geri",
     "detail": "sokuto",
+    "description": "Coup de pied latéral au corps avec le tranchant du pied (sokuto) : armer, frapper, ramener.",
     "category": "jambes"
    },
    {
     "id": "kyu6-gedan-mawashi-geri",
     "name": "Gedan mawashi geri",
-    "detail": "",
+    "detail": "Circulaire bas",
+    "description": "Coup de pied circulaire bas, avec le tibia, dans la cuisse.",
     "category": "jambes"
    },
    {
     "id": "kyu6-pinan-sono-ni",
     "name": "Pinan sono ni",
-    "detail": "",
+    "detail": "Kata",
+    "description": "Deuxième Pinan.",
     "category": "kata"
    },
    {
     "id": "kyu6-jiyu-kumite-52-min",
     "name": "Jiyu kumite 5×2 min",
-    "detail": "",
+    "detail": "Combat libre",
+    "description": "Combat libre : 5 rounds de 2 minutes.",
     "category": "autres"
    },
    {
     "id": "kyu6-stamina-60-60-30",
     "name": "Stamina 60/60/30",
-    "detail": "",
+    "detail": "Condition physique",
+    "description": "60 sauts accroupis, 60 abdos, 30 pompes.",
     "category": "autres"
    }
   ]
@@ -356,61 +407,71 @@
    {
     "id": "kyu5-moro-ashi-dachi",
     "name": "Moro ashi dachi",
-    "detail": "",
+    "detail": "Proche de la garde",
+    "description": "Pieds largeur d'épaules, un pied un peu devant l'autre, poids bien réparti. Position proche de la garde de combat.",
     "category": "positions"
    },
    {
     "id": "kyu5-shotei-uchi-jodan-chudan-gedan",
     "name": "Shotei uchi jodan/chudan/gedan",
-    "detail": "",
+    "detail": "Frappe paume",
+    "description": "Frappe avec la base de la paume, doigts repliés. Jodan, chudan et gedan.",
     "category": "bras"
    },
    {
     "id": "kyu5-jodan-hiji-ate-uchi",
     "name": "Jodan hiji (ate) uchi",
-    "detail": "",
+    "detail": "Coude au visage",
+    "description": "Coup de coude au visage.",
     "category": "bras"
    },
    {
     "id": "kyu5-shotei-uke-jodan-chudan-gedan",
     "name": "Shotei uke jodan/chudan/gedan",
-    "detail": "",
+    "detail": "Blocage paume",
+    "description": "Blocage avec la base de la paume. Jodan, chudan et gedan.",
     "category": "blocages"
    },
    {
     "id": "kyu5-chudan-mawashi-geri",
     "name": "Chudan mawashi geri",
-    "detail": "",
+    "detail": "Circulaire au corps",
+    "description": "Coup de pied circulaire au corps, avec le cou-de-pied ou le tibia, en pivotant sur le pied d'appui.",
     "category": "jambes"
    },
    {
     "id": "kyu5-chudan-ushiro-geri",
     "name": "Chudan ushiro geri",
-    "detail": "",
+    "detail": "Coup de pied arrière",
+    "description": "On tourne le dos et on pousse le talon droit vers l'adversaire.",
     "category": "jambes"
    },
    {
     "id": "kyu5-pinan-sono-san",
     "name": "Pinan sono san",
-    "detail": "",
+    "detail": "Kata",
+    "description": "Troisième Pinan.",
     "category": "kata"
    },
    {
     "id": "kyu5-jiyu-kumite-52-min",
     "name": "Jiyu kumite 5×2 min",
-    "detail": "",
+    "detail": "Combat libre",
+    "description": "Combat libre : 5 rounds de 2 minutes.",
     "category": "autres"
    },
    {
     "id": "kyu5-ren-raku-option",
     "name": "Ren raku (option)",
-    "detail": "",
+    "detail": "Enchaînements",
+    "description": "Enchaînements imposés.",
     "category": "autres"
    },
    {
     "id": "kyu5-stamina-70-70-35",
     "name": "Stamina 70/70/35",
-    "detail": "",
+    "detail": "Condition physique",
+    "description": "70 sauts accroupis, 70 abdos, 35 pompes.",
     "category": "autres"
    }
   ]
@@ -426,121 +487,141 @@
    {
     "id": "kyu4-heisoku",
     "name": "Heisoku",
-    "detail": "",
+    "detail": "Pieds joints",
+    "description": "Heisoku dachi : pieds joints, talons et pointes collés.",
     "category": "positions"
    },
    {
     "id": "kyu4-heiko",
     "name": "Heiko",
-    "detail": "",
+    "detail": "Pieds parallèles",
+    "description": "Heiko dachi : pieds parallèles, écartés largeur d'épaules.",
     "category": "positions"
    },
    {
     "id": "kyu4-uchi-hachi-ji-dachi",
     "name": "Uchi hachi ji dachi",
-    "detail": "",
+    "detail": "Pointes vers l’intérieur",
+    "description": "Pieds largeur d'épaules, pointes tournées vers l'intérieur.",
     "category": "positions"
    },
    {
     "id": "kyu4-shuto-sakotsu-uchi",
     "name": "Shuto sakotsu uchi",
-    "detail": "",
+    "detail": "Tranchant sur la clavicule",
+    "description": "Tranchant de la main de haut en bas sur la clavicule.",
     "category": "bras"
    },
    {
     "id": "kyu4-shuto-yoko-ganmen-uchi",
     "name": "Shuto yoko ganmen uchi",
-    "detail": "",
+    "detail": "Tranchant au visage",
+    "description": "Tranchant de la main latéral au visage.",
     "category": "bras"
    },
    {
     "id": "kyu4-shuto-uchi-komi",
     "name": "Shuto uchi komi",
-    "detail": "",
+    "detail": "Tranchant vers l’avant",
+    "description": "Tranchant de la main lancé vers l'avant, vers la clavicule.",
     "category": "bras"
    },
    {
     "id": "kyu4-shuto-hizo-uchi",
     "name": "Shuto hizo uchi",
-    "detail": "",
+    "detail": "Tranchant dans le flanc",
+    "description": "Tranchant de la main horizontal dans le flanc.",
     "category": "bras"
    },
    {
     "id": "kyu4-shuto-jodan-uchi-uchi",
     "name": "Shuto jodan uchi uchi",
-    "detail": "",
+    "detail": "Tranchant à la tempe",
+    "description": "Tranchant de la main de l'extérieur vers l'intérieur, à la tempe ou au cou.",
     "category": "bras"
    },
    {
     "id": "kyu4-shuto-jodan-uke",
     "name": "Shuto jodan uke",
-    "detail": "",
+    "detail": "Blocage haut main ouverte",
+    "description": "Jodan uke main ouverte.",
     "category": "blocages"
    },
    {
     "id": "kyu4-shuto-chudan-soto-uchi-uke",
     "name": "Shuto chudan soto / uchi uke",
-    "detail": "",
+    "detail": "Blocages moyens main ouverte",
+    "description": "Soto uke et uchi uke chudan, main ouverte.",
     "category": "blocages"
    },
    {
     "id": "kyu4-shuto-mae-gedan-barai",
     "name": "Shuto mae gedan barai",
-    "detail": "",
+    "detail": "Balayage main ouverte",
+    "description": "Gedan barai main ouverte.",
     "category": "blocages"
    },
    {
     "id": "kyu4-mae-shuto-mawashi-uke",
     "name": "Mae shuto mawashi uke",
-    "detail": "",
+    "detail": "Circulaire vers l’avant",
+    "description": "Mawashi uke vers l'avant, mains ouvertes.",
     "category": "blocages"
    },
    {
     "id": "kyu4-shuto-jodan-uchi-uke",
     "name": "Shuto jodan uchi uke",
-    "detail": "",
+    "detail": "Blocage haut intérieur",
+    "description": "Blocage haut de l'intérieur vers l'extérieur, main ouverte.",
     "category": "blocages"
    },
    {
     "id": "kyu4-jodan-yoko-geri",
     "name": "Jodan yoko geri",
-    "detail": "",
+    "detail": "Latéral au visage",
+    "description": "Yoko geri au visage.",
     "category": "jambes"
    },
    {
     "id": "kyu4-jodan-mawashi-geri",
     "name": "Jodan mawashi geri",
-    "detail": "",
+    "detail": "Circulaire à la tête",
+    "description": "Mawashi geri à la tête.",
     "category": "jambes"
    },
    {
     "id": "kyu4-jodan-ushiro-geri",
     "name": "Jodan ushiro geri",
-    "detail": "",
+    "detail": "Arrière au visage",
+    "description": "Ushiro geri au visage.",
     "category": "jambes"
    },
    {
     "id": "kyu4-sanchin-no-kata",
     "name": "Sanchin no kata",
-    "detail": "",
+    "detail": "Kata de respiration",
+    "description": "Kata de respiration et de tension en sanchin dachi : lent, contracté, avec respiration forte.",
     "category": "kata"
    },
    {
     "id": "kyu4-sokugi-taikyoku-1-2-3",
     "name": "Sokugi taikyoku 1, 2, 3",
-    "detail": "",
+    "detail": "Taikyoku avec les jambes",
+    "description": "Les Taikyoku, avec des coups de pied à la place des coups de poing.",
     "category": "kata"
    },
    {
     "id": "kyu4-jiyu-kumite-52-min",
     "name": "Jiyu kumite 5×2 min",
-    "detail": "",
+    "detail": "Combat libre",
+    "description": "Combat libre : 5 rounds de 2 minutes.",
     "category": "autres"
    },
    {
     "id": "kyu4-stamina-80-80-40",
     "name": "Stamina 80/80/40",
-    "detail": "",
+    "detail": "Condition physique",
+    "description": "80 sauts accroupis, 80 abdos, 40 pompes.",
     "category": "autres"
    }
   ]
@@ -556,67 +637,78 @@
    {
     "id": "kyu3-kake-dachi",
     "name": "Kake dachi",
-    "detail": "",
+    "detail": "Position croisée",
+    "description": "Poids sur la jambe avant, le pied arrière croise derrière et repose sur la pointe.",
     "category": "positions"
    },
    {
     "id": "kyu3-chudan-hiji-uchi",
     "name": "Chudan hiji uchi",
-    "detail": "",
+    "detail": "Coude circulaire",
+    "description": "Coude circulaire et horizontal au corps.",
     "category": "bras"
    },
    {
     "id": "kyu3-age-hiji-uchi",
     "name": "Age hiji uchi",
-    "detail": "",
+    "detail": "Coude montant",
+    "description": "Coude qui monte vers le menton.",
     "category": "bras"
    },
    {
     "id": "kyu3-ushiro-hiji-uchi",
     "name": "Ushiro hiji uchi",
-    "detail": "",
+    "detail": "Coude arrière",
+    "description": "Coude vers l'arrière, derrière soi.",
     "category": "bras"
    },
    {
     "id": "kyu3-oroshi-hiji-uchi",
     "name": "Oroshi hiji uchi",
-    "detail": "",
+    "detail": "Coude descendant",
+    "description": "Coude de haut en bas.",
     "category": "bras"
    },
    {
     "id": "kyu3-chudan-mae-hiji-uchi",
     "name": "Chudan mae hiji uchi",
-    "detail": "",
+    "detail": "Coude vers l’avant",
+    "description": "Coude vers l'avant, au corps.",
     "category": "bras"
    },
    {
     "id": "kyu3-shuto-juji-uke-jodan-gedan",
     "name": "Shuto juji uke jodan/gedan",
-    "detail": "",
+    "detail": "Croix main ouverte",
+    "description": "Juji uke mains ouvertes. Jodan et gedan.",
     "category": "blocages"
    },
    {
     "id": "kyu3-mae-kakato-geri-jodan-chudan-gedan",
     "name": "Mae kakato geri jodan/chudan/gedan",
-    "detail": "",
+    "detail": "Coup de pied talon",
+    "description": "Coup de pied avant poussé avec le talon. Jodan, chudan et gedan.",
     "category": "jambes"
    },
    {
     "id": "kyu3-pinan-sono-yon",
     "name": "Pinan sono yon",
-    "detail": "",
+    "detail": "Kata",
+    "description": "Quatrième Pinan.",
     "category": "kata"
    },
    {
     "id": "kyu3-jiyu-kumite-102-min",
     "name": "Jiyu kumite 10×2 min",
-    "detail": "",
+    "detail": "Combat libre",
+    "description": "Combat libre : 10 rounds de 2 minutes.",
     "category": "autres"
    },
    {
     "id": "kyu3-stamina-90-90-45",
     "name": "Stamina 90/90/45",
-    "detail": "",
+    "detail": "Condition physique",
+    "description": "90 sauts accroupis, 90 abdos, 45 pompes.",
     "category": "autres"
    }
   ]
@@ -632,85 +724,99 @@
    {
     "id": "kyu2-hiraken-tsuki",
     "name": "Hiraken tsuki",
-    "detail": "",
+    "detail": "Poing à demi fermé",
+    "description": "Coup direct avec le poing à demi fermé (deuxièmes phalanges), vers la gorge ou le nez.",
     "category": "bras"
    },
    {
     "id": "kyu2-hiraken-oroshi-uchi",
     "name": "Hiraken oroshi uchi",
-    "detail": "",
+    "detail": "Hiraken descendant",
+    "description": "Hiraken de haut en bas.",
     "category": "bras"
    },
    {
     "id": "kyu2-haishu-uchi",
     "name": "Haishu uchi",
-    "detail": "",
+    "detail": "Dos de la main",
+    "description": "Frappe avec le dos de la main ouverte.",
     "category": "bras"
    },
    {
     "id": "kyu2-hiraken-mawashi-uchi",
     "name": "Hiraken mawashi uchi",
-    "detail": "",
+    "detail": "Hiraken circulaire",
+    "description": "Hiraken circulaire.",
     "category": "bras"
    },
    {
     "id": "kyu2-age-jodan-tsuki",
     "name": "Age jodan tsuki",
-    "detail": "",
+    "detail": "Poing montant",
+    "description": "Coup de poing montant au visage.",
     "category": "bras"
    },
    {
     "id": "kyu2-koken-uchi",
     "name": "Koken uchi",
-    "detail": "",
+    "detail": "Poignet plié",
+    "description": "Frappe avec le poignet plié (le dessus du poignet), de bas en haut.",
     "category": "bras"
    },
    {
     "id": "kyu2-koken-uke-jodan-chudan-gedan",
     "name": "Koken uke jodan/chudan/gedan",
-    "detail": "",
+    "detail": "Blocage poignet",
+    "description": "Blocage avec le poignet plié. Jodan, chudan et gedan.",
     "category": "blocages"
    },
    {
     "id": "kyu2-tobi-mae-geri",
     "name": "Tobi mae geri",
-    "detail": "",
+    "detail": "Mae geri sauté",
+    "description": "Mae geri sauté.",
     "category": "jambes"
    },
    {
     "id": "kyu2-tobi-nidan-geri",
     "name": "Tobi nidan geri",
-    "detail": "",
+    "detail": "Double sauté",
+    "description": "Double coup de pied sauté : un premier mae geri, puis le second en l’air.",
     "category": "jambes"
    },
    {
     "id": "kyu2-pinan-sono-go",
     "name": "Pinan sono go",
-    "detail": "",
+    "detail": "Kata",
+    "description": "Cinquième et dernier Pinan.",
     "category": "kata"
    },
    {
     "id": "kyu2-gekisai-dai",
     "name": "Gekisai dai",
-    "detail": "",
+    "detail": "Kata",
+    "description": "Kata « détruire, grand » : techniques puissantes en combinaisons.",
     "category": "kata"
    },
    {
     "id": "kyu2-jiyu-kumite-152-min",
     "name": "Jiyu kumite 15×2 min",
-    "detail": "",
+    "detail": "Combat libre",
+    "description": "Combat libre : 15 rounds de 2 minutes.",
     "category": "autres"
    },
    {
     "id": "kyu2-ren-raku-en-9-techniques",
     "name": "Ren raku en 9 techniques",
-    "detail": "",
+    "detail": "Enchaînement",
+    "description": "Enchaînement imposé de 9 techniques.",
     "category": "autres"
    },
    {
     "id": "kyu2-stamina-100-100-50",
     "name": "Stamina 100/100/50",
-    "detail": "",
+    "detail": "Condition physique",
+    "description": "100 sauts accroupis, 100 abdos, 50 pompes.",
     "category": "autres"
    }
   ]
@@ -726,85 +832,99 @@
    {
     "id": "kyu1-ryuto-ken-tsuki",
     "name": "Ryuto ken tsuki",
-    "detail": "",
+    "detail": "Tête de dragon",
+    "description": "« Tête de dragon » : coup direct avec la phalange du majeur qui dépasse du poing.",
     "category": "bras"
    },
    {
     "id": "kyu1-naka-yubi-ippon-ken-tsuki",
     "name": "Naka yubi ippon ken tsuki",
-    "detail": "",
+    "detail": "Un doigt : majeur",
+    "description": "Coup direct sur un seul point avec l'articulation du majeur.",
     "category": "bras"
    },
    {
     "id": "kyu1-oya-yubi-ippon-ken-uchi",
     "name": "Oya yubi ippon ken uchi",
-    "detail": "",
+    "detail": "Un doigt : pouce",
+    "description": "Frappe avec l'articulation du pouce replié.",
     "category": "bras"
    },
    {
     "id": "kyu1-hitosashi-yubi-ippon-ken-tsuki",
     "name": "Hitosashi yubi ippon ken tsuki",
-    "detail": "",
+    "detail": "Un doigt : index",
+    "description": "Coup direct avec l'articulation de l'index qui ressort.",
     "category": "bras"
    },
    {
     "id": "kyu1-kake-uke",
     "name": "Kake uke",
-    "detail": "",
+    "detail": "Blocage crochet",
+    "description": "Main ouverte : on accroche le bras de l'adversaire pour le contrôler.",
     "category": "blocages"
    },
    {
     "id": "kyu1-haito-chudan-uchi-uke",
     "name": "Haito chudan uchi uke",
-    "detail": "",
+    "detail": "Tranchant côté pouce",
+    "description": "Blocage moyen avec le tranchant intérieur de la main (côté pouce).",
     "category": "blocages"
    },
    {
     "id": "kyu1-jodan-uchi-haisoku-geri",
     "name": "Jodan uchi haisoku geri",
-    "detail": "",
+    "detail": "Cou-de-pied au visage",
+    "description": "Coup de pied circulaire de l'extérieur vers l'intérieur au visage, avec le cou-de-pied.",
     "category": "jambes"
    },
    {
     "id": "kyu1-oroshi-uchi-kakato-geri",
     "name": "Oroshi uchi kakato geri",
-    "detail": "",
+    "detail": "Talon descendant",
+    "description": "La jambe monte par l'extérieur, passe vers l'intérieur et retombe : le talon frappe de haut en bas.",
     "category": "jambes"
    },
    {
     "id": "kyu1-tobi-yoko-geri",
     "name": "Tobi yoko geri",
-    "detail": "",
+    "detail": "Latéral sauté",
+    "description": "Yoko geri sauté.",
     "category": "jambes"
    },
    {
     "id": "kyu1-oroshi-soto-kakato-geri",
     "name": "Oroshi soto kakato geri",
-    "detail": "",
+    "detail": "Talon descendant",
+    "description": "La jambe monte par l'intérieur, passe vers l'extérieur et retombe : le talon frappe de haut en bas.",
     "category": "jambes"
    },
    {
     "id": "kyu1-yantsu",
     "name": "Yantsu",
-    "detail": "",
+    "detail": "Kata",
+    "description": "Kata « garder pur » : combine positions et techniques des grades précédents.",
     "category": "kata"
    },
    {
     "id": "kyu1-tsuki-no-kata",
     "name": "Tsuki no kata",
-    "detail": "",
+    "detail": "Kata",
+    "description": "Kata des coups de poing : enchaîne les différents tsuki.",
     "category": "kata"
    },
    {
     "id": "kyu1-jiyu-kumite-202-min",
     "name": "Jiyu kumite 20×2 min",
-    "detail": "",
+    "detail": "Combat libre",
+    "description": "Combat libre : 20 rounds de 2 minutes.",
     "category": "autres"
    },
    {
     "id": "kyu1-ren-raku-a-b",
     "name": "Ren raku A/B",
-    "detail": "",
+    "detail": "Enchaînements",
+    "description": "Enchaînements imposés A et B.",
     "category": "autres"
    }
   ]

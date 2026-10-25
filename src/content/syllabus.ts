@@ -20,6 +20,8 @@ export type Technique = {
   id: string;
   name: string;
   detail: string;
+  /** Explication courte (aide-mémoire, à faire valider par le sensei). */
+  description?: string;
   category: Category;
   /** Fiche détaillée (4 images clés). Absente tant que la technique n'est pas illustrée. */
   steps?: TechniqueStep[];
@@ -58,16 +60,59 @@ const kyu10: Grade = {
   ],
   exam: { duration: '20 min.', fee: '20 €', place: 'Au club' },
   techniques: [
-    { id: 'fudo-dachi', name: 'Fudo dachi', detail: 'Position inébranlable', category: 'positions' },
-    { id: 'yoi-dachi', name: 'Yoi dachi', detail: 'Position de préparation', category: 'positions' },
-    { id: 'zenkutsu-dachi', name: 'Zenkutsu dachi', detail: 'Avancer, demi-tour, revenir', category: 'positions' },
-    { id: 'seiken-oi-tsuki', name: 'Seiken oi tsuki', detail: 'Jodan, chudan, gedan', category: 'bras' },
-    { id: 'seiken-morote-tsuki', name: 'Seiken morote tsuki', detail: 'Jodan, chudan, gedan', category: 'bras' },
-    { id: 'seiken-jodan-uke', name: 'Seiken jodan uke', detail: 'Blocage niveau haut', category: 'blocages' },
+    {
+      id: 'fudo-dachi',
+      name: 'Fudo dachi',
+      detail: 'Position inébranlable',
+      description:
+        'Pieds écartés largeur d’épaules, pointes légèrement ouvertes, genoux souples, poings fermés devant la ceinture.',
+      category: 'positions',
+    },
+    {
+      id: 'yoi-dachi',
+      name: 'Yoi dachi',
+      detail: 'Position de préparation',
+      description:
+        'Position de départ avant un exercice : même placement des pieds, les bras se croisent puis descendent, poings devant la ceinture.',
+      category: 'positions',
+    },
+    {
+      id: 'zenkutsu-dachi',
+      name: 'Zenkutsu dachi',
+      detail: 'Avancer, demi-tour, revenir',
+      description:
+        'Position avant : genou avant fléchi au-dessus des orteils, jambe arrière tendue, environ 70 % du poids devant. À faire en avançant (ido-geiko), en demi-tour (mawate) et en revenant (naore).',
+      category: 'positions',
+    },
+    {
+      id: 'seiken-oi-tsuki',
+      name: 'Seiken oi tsuki',
+      detail: 'Jodan, chudan, gedan',
+      description:
+        'Coup de poing direct du côté de la jambe avant, en avançant. Le poing qui ne frappe pas revient à la poitrine (hikite).',
+      category: 'bras',
+    },
+    {
+      id: 'seiken-morote-tsuki',
+      name: 'Seiken morote tsuki',
+      detail: 'Jodan, chudan, gedan',
+      description: 'Les deux poings partent ensemble, en parallèle.',
+      category: 'bras',
+    },
+    {
+      id: 'seiken-jodan-uke',
+      name: 'Seiken jodan uke',
+      detail: 'Blocage niveau haut',
+      description:
+        'L’avant-bras monte en biais au-dessus du front, à un poing de distance, pour dévier une attaque au visage.',
+      category: 'blocages',
+    },
     {
       id: 'seiken-mae-gedan-barai',
       name: 'Seiken mae gedan barai',
       detail: 'Balayage niveau bas',
+      description:
+        'Le poing part de l’oreille opposée et balaie vers le bas, pour finir à l’extérieur de la cuisse avant, au-dessus du genou.',
       category: 'blocages',
       facts: { position: 'Zenkutsu', level: 'Gedan', hikite: 'Poitrine' },
       steps: [
@@ -104,8 +149,20 @@ const kyu10: Grade = {
         'Tirer le hikite après le blocage au lieu de le faire en même temps.',
       ],
     },
-    { id: 'hiza-ganmen-geri', name: 'Hiza ganmen geri', detail: 'Genou au visage', category: 'jambes' },
-    { id: 'kin-geri', name: 'Kin geri', detail: 'Cou-de-pied vers le haut', category: 'jambes' },
+    {
+      id: 'hiza-ganmen-geri',
+      name: 'Hiza ganmen geri',
+      detail: 'Genou au visage',
+      description: 'On saisit la tête à deux mains et on la tire vers le genou qui monte.',
+      category: 'jambes',
+    },
+    {
+      id: 'kin-geri',
+      name: 'Kin geri',
+      detail: 'Cou-de-pied vers le haut',
+      description: 'Coup de pied montant à l’entrejambe avec le cou-de-pied.',
+      category: 'jambes',
+    },
   ],
 };
 
