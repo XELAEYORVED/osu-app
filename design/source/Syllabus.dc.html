@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Apprendre</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<style>
+body{margin:0;font-family:-apple-system,"SF Pro Text","SF Pro Display",system-ui,"Helvetica Neue",sans-serif;-webkit-font-smoothing:antialiased;color:#FFFFFF}
+a{color:inherit;text-decoration:none}
+a:hover{color:inherit}
+.scroll::-webkit-scrollbar{display:none}
+.row{transition:background .15s}
+.row:active{background:#2C2C2E}
+.seg{transition:background .2s,color .2s}
+.num{font-family:ui-rounded,"SF Pro Rounded",-apple-system,system-ui,sans-serif}
+</style>
+</helmet>
+<div style="width: 390px; height: 844px; position: relative; overflow: hidden; background: #000000">
+  <div class="scroll" style="position: absolute; inset: 0; overflow-y: auto; padding: 58px 0 110px; box-sizing: border-box">
+    <div style="padding: 0 20px">
+      <h1 style="margin: 0; font-size: 34px; line-height: 41px; font-weight: 700">Apprendre</h1>
+      <div style="font-size: 15px; color: rgba(235,235,245,0.6)">Syllabus BKOS · version du 1er septembre 2024</div>
+    </div>
+
+    <label style="display: flex; align-items: center; gap: 6px; margin: 16px 16px 0; height: 36px; padding: 0 10px; border-radius: 10px; background: rgba(118,118,128,0.24)">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="rgba(235,235,245,0.6)" stroke-width="2.2" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m20 20-4.6-4.6"/></svg>
+      <input type="search" aria-label="Rechercher une technique" placeholder="Technique, kata, position" style="flex: 1; border: 0; background: transparent; font: inherit; font-size: 17px; color: #FFFFFF; outline: none">
+    </label>
+
+    <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin: 14px 16px 0">
+      <a href="Exam.dc.html" class="row" style="background: #1C1C1E; border-radius: 18px; padding: 14px; display: flex; flex-direction: column; gap: 18px">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#30D158" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 4.5H6.5a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2v-13a2 2 0 0 0-2-2H15"/><rect x="9" y="3" width="6" height="3.5" rx="1"/><path d="m8.5 13.5 2.3 2.3 4.7-4.8"/></svg>
+        <div><div style="font-size: 17px; font-weight: 600">Examen blanc</div><div style="font-size: 13px; color: rgba(235,235,245,0.6)">6 questions</div></div>
+      </a>
+      <a href="Lexique.dc.html" class="row" style="background: #1C1C1E; border-radius: 18px; padding: 14px; display: flex; flex-direction: column; gap: 18px">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#64D2FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="13" height="15" rx="2.5"/><path d="M8 3h10.5A2.5 2.5 0 0 1 21 5.5V17M7 10h5M7 14h3"/></svg>
+        <div><div style="font-size: 17px; font-weight: 600">Lexique</div><div style="font-size: 13px; color: rgba(235,235,245,0.6)">26 termes</div></div>
+      </a>
+    </div>
+
+    <a href="Grade.dc.html" class="row" style="display: block; margin: 12px 16px 0; background: #1C1C1E; border-radius: 20px; padding: 16px; position: relative; overflow: hidden">
+      <div style="position: absolute; left: 0; right: 0; top: 0; height: 6px; background: #F28C28"></div>
+      <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 4px">
+        <div>
+          <div style="font-size: 13px; font-weight: 600; color: #FF9F0A; text-transform: uppercase; letter-spacing: 0.02em">Ton objectif</div>
+          <div style="font-size: 24px; font-weight: 700; margin-top: 2px">10e kyu</div>
+          <div style="font-size: 15px; color: rgba(235,235,245,0.6)">Ceinture orange</div>
+        </div>
+        <div style="position: relative; width: 64px; height: 64px">
+          <svg width="64" height="64" viewBox="0 0 64 64"><circle cx="32" cy="32" r="27" fill="none" stroke="rgba(255,59,71,0.22)" stroke-width="8"/><circle cx="32" cy="32" r="27" fill="none" stroke="#FF3B47" stroke-width="8" stroke-linecap="round" stroke-dasharray="169.6" stroke-dashoffset="56.5" transform="rotate(-90 32 32)"/></svg>
+          <div class="num" style="position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 700">6/9</div>
+        </div>
+      </div>
+    </a>
+
+    <div role="tablist" style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); margin: 22px 16px 0; padding: 2px; border-radius: 9px; background: rgba(118,118,128,0.24)">
+      <button class="seg" onClick="{{showKyu}}" style="{{kyuStyle}}">Kyu</button>
+      <button class="seg" onClick="{{showDan}}" style="{{danStyle}}">Dan</button>
+    </div>
+
+    <div style="margin: 14px 16px 0; background: #1C1C1E; border-radius: 16px; overflow: hidden">
+      <sc-for list="{{grades}}" as="g" hint-placeholder-count="9">
+        <a href="Grade.dc.html" class="row" style="display: flex; align-items: center; gap: 14px; padding-left: 16px; min-height: 64px">
+          <div style="position: relative; width: 36px; height: 10px; border-radius: 3px; flex: none; background: {{g.color}}; box-shadow: inset 0 0 0 0.5px rgba(255,255,255,0.18)">
+            <sc-for list="{{g.bars}}" as="b" hint-placeholder-count="1">
+              <div style="position: absolute; top: 0; bottom: 0; width: 3px; right: {{b.right}}; background: {{b.color}}"></div>
+            </sc-for>
+          </div>
+          <div style="flex: 1; min-width: 0; display: flex; align-items: center; gap: 10px; align-self: stretch; padding: 10px 16px 10px 0; border-bottom: {{g.sep}}">
+            <div style="flex: 1; min-width: 0">
+              <div style="font-size: 17px; font-weight: 600">{{g.name}}</div>
+              <div style="font-size: 13px; color: rgba(235,235,245,0.6); white-space: nowrap; overflow: hidden; text-overflow: ellipsis">{{g.sub}}</div>
+            </div>
+            <svg width="8" height="14" viewBox="0 0 8 14" fill="none" stroke="rgba(235,235,245,0.3)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 1l6 6-6 6"/></svg>
+          </div>
+        </a>
+      </sc-for>
+    </div>
+  </div>
+
+  <nav aria-label="Navigation principale" style="position: absolute; left: 0; right: 0; bottom: 0; height: 84px; background: rgba(18,18,20,0.82); backdrop-filter: saturate(180%) blur(24px); -webkit-backdrop-filter: saturate(180%) blur(24px); border-top: 0.5px solid rgba(255,255,255,0.12); display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); padding-top: 7px; box-sizing: border-box">
+    <a href="Main.dc.html" style="display: flex; flex-direction: column; align-items: center; gap: 3px; color: #8E8E93; font-size: 10px; font-weight: 600">
+      <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#8E8E93" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 10.4 12 4l8 6.4V20a1 1 0 0 1-1 1h-4.5v-5.5h-5V21H5a1 1 0 0 1-1-1z"/></svg>Aujourd’hui</a>
+    <a href="Syllabus.dc.html" style="display: flex; flex-direction: column; align-items: center; gap: 3px; color: #FF3B47; font-size: 10px; font-weight: 600">
+      <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#FF3B47" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 4.5A1.5 1.5 0 0 1 6.5 3H19v15H6.5A1.5 1.5 0 0 0 5 19.5z"/><path d="M5 19.5A1.5 1.5 0 0 0 6.5 21H19v-3M9 7.5h6"/></svg>Apprendre</a>
+    <a href="Kumite.dc.html" style="display: flex; flex-direction: column; align-items: center; gap: 3px; color: #8E8E93; font-size: 10px; font-weight: 600">
+      <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#8E8E93" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M7 11V7.5a1.5 1.5 0 0 1 3 0V10M10 9.5V6a1.5 1.5 0 0 1 3 0v4M13 9.5V7a1.5 1.5 0 0 1 3 0v4.5M16 10.5a1.5 1.5 0 0 1 3 0V14a7 7 0 0 1-7 7h-.5A6.5 6.5 0 0 1 5 14.5V12a1.5 1.5 0 0 1 2-1.4"/></svg>Kumite</a>
+    <a href="Agenda.dc.html" style="display: flex; flex-direction: column; align-items: center; gap: 3px; color: #8E8E93; font-size: 10px; font-weight: 600">
+      <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#8E8E93" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="5" width="17" height="15.5" rx="3"/><path d="M3.5 10h17M8 3v4M16 3v4"/></svg>Agenda</a>
+    <a href="Journal.dc.html" style="display: flex; flex-direction: column; align-items: center; gap: 3px; color: #8E8E93; font-size: 10px; font-weight: 600">
+      <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#8E8E93" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3.5h10.5A2.5 2.5 0 0 1 19 6v12.5a2 2 0 0 1-2 2H6z"/><path d="M6 3.5v17M9.5 8.5h6M9.5 12h6M9.5 15.5h3.5"/></svg>Journal</a>
+  </nav>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":390,"height":844}}'>
+class Component extends DCLogic {
+  constructor(props) { super(props); this.state = { tab: 'kyu' }; }
+  renderVals() {
+    const kyu = this.state.tab === 'kyu';
+    const BAR = { right: '6px', color: '#000000' };
+    const GOLD = r => ({ right: r, color: '#E8B923' });
+    const K = [
+      ['10e kyu', '#F28C28', [], 'Orange · Fudo, zenkutsu, oi tsuki, kin geri'],
+      ['9e kyu', '#F28C28', [BAR], 'Orange barrette · Taikyoku sono ichi et ni'],
+      ['8e kyu', '#2F6FDE', [], 'Bleue · Kiba dachi, Taikyoku sono san'],
+      ['7e kyu', '#2F6FDE', [BAR], 'Bleue barrette · Tettsui, Pinan sono ichi'],
+      ['6e kyu', '#F2C230', [], 'Jaune · Uraken, Pinan sono ni'],
+      ['5e kyu', '#F2C230', [BAR], 'Jaune barrette · Shotei, Pinan sono san'],
+      ['4e kyu', '#2E9E5B', [], 'Verte · Shuto, Sanchin no kata'],
+      ['3e kyu', '#2E9E5B', [BAR], 'Verte barrette · Hiji ate, Pinan sono yon'],
+      ['2e kyu', '#7A4A2A', [], 'Marron · Hiraken, Gekisai dai'],
+      ['1er kyu', '#7A4A2A', [BAR], 'Marron barrette · Ippon ken, Yantsu'],
+    ];
+    const D = [
+      ['Shodan', '#0A0A0A', [GOLD('6px')], '1er dan · Haito, Tensho, Saiha'],
+      ['Nidan', '#0A0A0A', [GOLD('6px'), GOLD('12px')], '2e dan · Kanku dai, Seienchin'],
+      ['Sandan', '#0A0A0A', [GOLD('6px'), GOLD('12px'), GOLD('18px')], '3e dan · Garyu, Seipai, Sushi ho'],
+    ];
+    const src = kyu ? K : D;
+    const grades = src.map((g, i) => ({ name: g[0], color: g[1], bars: g[2], sub: g[3], sep: i < src.length - 1 ? '0.5px solid #38383A' : '0' }));
+    const on = 'border: 0; font: inherit; font-size: 13px; font-weight: 600; height: 30px; border-radius: 7px; cursor: pointer; background: #636366; color: #FFFFFF';
+    const off = 'border: 0; font: inherit; font-size: 13px; font-weight: 500; height: 30px; border-radius: 7px; cursor: pointer; background: transparent; color: #FFFFFF';
+    return {
+      grades, kyuStyle: kyu ? on : off, danStyle: kyu ? off : on,
+      showKyu: () => this.setState({ tab: 'kyu' }), showDan: () => this.setState({ tab: 'dan' }),
+    };
+  }
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,1028 @@
+[
+ {
+  "id": "kyu9",
+  "label": "9e kyu",
+  "kind": "kyu",
+  "belt": "orange",
+  "stripe": true,
+  "beltName": "Ceinture orange barrette",
+  "techniques": [
+   {
+    "id": "kyu9-sanchin-dachi",
+    "name": "Sanchin dachi",
+    "detail": "",
+    "category": "positions"
+   },
+   {
+    "id": "kyu9-kokutsu-dachi",
+    "name": "Kokutsu dachi",
+    "detail": "ido-geiko, mawate, naore",
+    "category": "positions"
+   },
+   {
+    "id": "kyu9-musubi-dachi",
+    "name": "Musubi dachi",
+    "detail": "",
+    "category": "positions"
+   },
+   {
+    "id": "kyu9-seiken-ago-uchi",
+    "name": "Seiken ago uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu9-seiken-gyaku-tsuki-jodan-chudan-gedan",
+    "name": "Seiken gyaku tsuki jodan/chudan/gedan",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu9-seiken-chudan-uchi-uke",
+    "name": "Seiken chudan uchi uke",
+    "detail": "",
+    "category": "blocages"
+   },
+   {
+    "id": "kyu9-seiken-chudan-soto-uke",
+    "name": "Seiken chudan soto uke",
+    "detail": "zenkutsu, kokutsu, sanchin",
+    "category": "blocages"
+   },
+   {
+    "id": "kyu9-mae-geri-chudan-chusoku",
+    "name": "Mae geri chudan chusoku",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "kyu9-taikyoku-sono-ichi-sono-ni",
+    "name": "Taikyoku sono ichi, sono ni",
+    "detail": "",
+    "category": "kata"
+   },
+   {
+    "id": "kyu9-sanbon-kumite-option",
+    "name": "Sanbon kumite (option)",
+    "detail": "",
+    "category": "autres"
+   },
+   {
+    "id": "kyu9-respiration-nogare-omote-ura",
+    "name": "Respiration : Nogare (omote/ura)",
+    "detail": "",
+    "category": "autres"
+   },
+   {
+    "id": "kyu9-histoire-kokoro",
+    "name": "Histoire + Kokoro",
+    "detail": "",
+    "category": "autres"
+   },
+   {
+    "id": "kyu9-stamina-30-30-15",
+    "name": "Stamina 30/30/15",
+    "detail": "",
+    "category": "autres"
+   }
+  ]
+ },
+ {
+  "id": "kyu8",
+  "label": "8e kyu",
+  "kind": "kyu",
+  "belt": "blue",
+  "stripe": false,
+  "beltName": "Ceinture bleue",
+  "techniques": [
+   {
+    "id": "kyu8-kiba-dachi",
+    "name": "Kiba dachi",
+    "detail": "",
+    "category": "positions"
+   },
+   {
+    "id": "kyu8-shita-tsuki",
+    "name": "Shita tsuki",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu8-jun-tsuki-jodan-chudan-gedan",
+    "name": "Jun tsuki jodan/chudan/gedan",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu8-tate-tsuki-jodan-chudan-gedan",
+    "name": "Tate tsuki jodan/chudan/gedan",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu8-seiken-morote-chudan-uchi-uke",
+    "name": "Seiken morote chudan uchi uke",
+    "detail": "",
+    "category": "blocages"
+   },
+   {
+    "id": "kyu8-seiken-chudan-uchi-uke-gedan-barai",
+    "name": "Seiken chudan uchi uke / gedan barai",
+    "detail": "",
+    "category": "blocages"
+   },
+   {
+    "id": "kyu8-mae-geri-jodan",
+    "name": "Mae geri jodan",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "kyu8-ago-mae-geri",
+    "name": "Ago mae geri",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "kyu8-taikyoku-sono-san",
+    "name": "Taikyoku sono san",
+    "detail": "",
+    "category": "kata"
+   },
+   {
+    "id": "kyu8-yakusoku-ippon-kumite",
+    "name": "Yakusoku ippon kumite",
+    "detail": "",
+    "category": "autres"
+   },
+   {
+    "id": "kyu8-ren-raku-a-b-option",
+    "name": "Ren raku A/B (option)",
+    "detail": "",
+    "category": "autres"
+   },
+   {
+    "id": "kyu8-stamina-40-40-20",
+    "name": "Stamina 40/40/20",
+    "detail": "",
+    "category": "autres"
+   }
+  ]
+ },
+ {
+  "id": "kyu7",
+  "label": "7e kyu",
+  "kind": "kyu",
+  "belt": "blue",
+  "stripe": true,
+  "beltName": "Ceinture bleue barrette",
+  "techniques": [
+   {
+    "id": "kyu7-neko-ashi-dachi",
+    "name": "Neko ashi dachi",
+    "detail": "",
+    "category": "positions"
+   },
+   {
+    "id": "kyu7-tetsui-komekami-uchi",
+    "name": "Tetsui komekami uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu7-tetsui-oroshi-ganmen-uchi",
+    "name": "Tetsui oroshi ganmen uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu7-tetsui-hizo-uchi",
+    "name": "Tetsui hizo uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu7-tetsui-yoko-uchi",
+    "name": "Tetsui yoko uchi",
+    "detail": "jodan/chudan/gedan",
+    "category": "bras"
+   },
+   {
+    "id": "kyu7-seiken-mawashi-gedan-barai",
+    "name": "Seiken mawashi gedan barai",
+    "detail": "",
+    "category": "blocages"
+   },
+   {
+    "id": "kyu7-shuto-mawashi-uke",
+    "name": "Shuto mawashi uke",
+    "detail": "kokutsu",
+    "category": "blocages"
+   },
+   {
+    "id": "kyu7-mae-chusoku-keage",
+    "name": "Mae chusoku keage",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "kyu7-teisoku-mawashi-soto-keage",
+    "name": "Teisoku mawashi soto keage",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "kyu7-haisoku-mawashi-uchi-keage",
+    "name": "Haisoku mawashi uchi keage",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "kyu7-sokuto-yoko-keage",
+    "name": "Sokuto yoko keage",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "kyu7-pinan-sono-ichi",
+    "name": "Pinan sono ichi",
+    "detail": "",
+    "category": "kata"
+   },
+   {
+    "id": "kyu7-jiyu-kumite-52-min",
+    "name": "Jiyu kumite 5×2 min",
+    "detail": "",
+    "category": "autres"
+   },
+   {
+    "id": "kyu7-ibuki-sankai",
+    "name": "Ibuki sankai",
+    "detail": "",
+    "category": "autres"
+   },
+   {
+    "id": "kyu7-stamina-50-50-25",
+    "name": "Stamina 50/50/25",
+    "detail": "",
+    "category": "autres"
+   }
+  ]
+ },
+ {
+  "id": "kyu6",
+  "label": "6e kyu",
+  "kind": "kyu",
+  "belt": "yellow",
+  "stripe": false,
+  "beltName": "Ceinture jaune",
+  "techniques": [
+   {
+    "id": "kyu6-tsuru-ashi-dachi",
+    "name": "Tsuru ashi dachi",
+    "detail": "",
+    "category": "positions"
+   },
+   {
+    "id": "kyu6-uraken-shomen-sayu-hizo-mawashi-oroshi-uchi",
+    "name": "Uraken shomen / sayu / hizo / mawashi / oroshi uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu6-nihon-nukite",
+    "name": "Nihon nukite",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu6-yohon-nukite",
+    "name": "Yohon nukite",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu6-seiken-juji-uke-jodan-gedan",
+    "name": "Seiken juji uke jodan/gedan",
+    "detail": "",
+    "category": "blocages"
+   },
+   {
+    "id": "kyu6-kansetsu-geri",
+    "name": "Kansetsu geri",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "kyu6-chudan-yoko-geri",
+    "name": "Chudan yoko geri",
+    "detail": "sokuto",
+    "category": "jambes"
+   },
+   {
+    "id": "kyu6-gedan-mawashi-geri",
+    "name": "Gedan mawashi geri",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "kyu6-pinan-sono-ni",
+    "name": "Pinan sono ni",
+    "detail": "",
+    "category": "kata"
+   },
+   {
+    "id": "kyu6-jiyu-kumite-52-min",
+    "name": "Jiyu kumite 5×2 min",
+    "detail": "",
+    "category": "autres"
+   },
+   {
+    "id": "kyu6-stamina-60-60-30",
+    "name": "Stamina 60/60/30",
+    "detail": "",
+    "category": "autres"
+   }
+  ]
+ },
+ {
+  "id": "kyu5",
+  "label": "5e kyu",
+  "kind": "kyu",
+  "belt": "yellow",
+  "stripe": true,
+  "beltName": "Ceinture jaune barrette",
+  "techniques": [
+   {
+    "id": "kyu5-moro-ashi-dachi",
+    "name": "Moro ashi dachi",
+    "detail": "",
+    "category": "positions"
+   },
+   {
+    "id": "kyu5-shotei-uchi-jodan-chudan-gedan",
+    "name": "Shotei uchi jodan/chudan/gedan",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu5-jodan-hiji-ate-uchi",
+    "name": "Jodan hiji (ate) uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu5-shotei-uke-jodan-chudan-gedan",
+    "name": "Shotei uke jodan/chudan/gedan",
+    "detail": "",
+    "category": "blocages"
+   },
+   {
+    "id": "kyu5-chudan-mawashi-geri",
+    "name": "Chudan mawashi geri",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "kyu5-chudan-ushiro-geri",
+    "name": "Chudan ushiro geri",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "kyu5-pinan-sono-san",
+    "name": "Pinan sono san",
+    "detail": "",
+    "category": "kata"
+   },
+   {
+    "id": "kyu5-jiyu-kumite-52-min",
+    "name": "Jiyu kumite 5×2 min",
+    "detail": "",
+    "category": "autres"
+   },
+   {
+    "id": "kyu5-ren-raku-option",
+    "name": "Ren raku (option)",
+    "detail": "",
+    "category": "autres"
+   },
+   {
+    "id": "kyu5-stamina-70-70-35",
+    "name": "Stamina 70/70/35",
+    "detail": "",
+    "category": "autres"
+   }
+  ]
+ },
+ {
+  "id": "kyu4",
+  "label": "4e kyu",
+  "kind": "kyu",
+  "belt": "green",
+  "stripe": false,
+  "beltName": "Ceinture verte",
+  "techniques": [
+   {
+    "id": "kyu4-heisoku",
+    "name": "Heisoku",
+    "detail": "",
+    "category": "positions"
+   },
+   {
+    "id": "kyu4-heiko",
+    "name": "Heiko",
+    "detail": "",
+    "category": "positions"
+   },
+   {
+    "id": "kyu4-uchi-hachi-ji-dachi",
+    "name": "Uchi hachi ji dachi",
+    "detail": "",
+    "category": "positions"
+   },
+   {
+    "id": "kyu4-shuto-sakotsu-uchi",
+    "name": "Shuto sakotsu uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu4-shuto-yoko-ganmen-uchi",
+    "name": "Shuto yoko ganmen uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu4-shuto-uchi-komi",
+    "name": "Shuto uchi komi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu4-shuto-hizo-uchi",
+    "name": "Shuto hizo uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu4-shuto-jodan-uchi-uchi",
+    "name": "Shuto jodan uchi uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu4-shuto-jodan-uke",
+    "name": "Shuto jodan uke",
+    "detail": "",
+    "category": "blocages"
+   },
+   {
+    "id": "kyu4-shuto-chudan-soto-uchi-uke",
+    "name": "Shuto chudan soto / uchi uke",
+    "detail": "",
+    "category": "blocages"
+   },
+   {
+    "id": "kyu4-shuto-mae-gedan-barai",
+    "name": "Shuto mae gedan barai",
+    "detail": "",
+    "category": "blocages"
+   },
+   {
+    "id": "kyu4-mae-shuto-mawashi-uke",
+    "name": "Mae shuto mawashi uke",
+    "detail": "",
+    "category": "blocages"
+   },
+   {
+    "id": "kyu4-shuto-jodan-uchi-uke",
+    "name": "Shuto jodan uchi uke",
+    "detail": "",
+    "category": "blocages"
+   },
+   {
+    "id": "kyu4-jodan-yoko-geri",
+    "name": "Jodan yoko geri",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "kyu4-jodan-mawashi-geri",
+    "name": "Jodan mawashi geri",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "kyu4-jodan-ushiro-geri",
+    "name": "Jodan ushiro geri",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "kyu4-sanchin-no-kata",
+    "name": "Sanchin no kata",
+    "detail": "",
+    "category": "kata"
+   },
+   {
+    "id": "kyu4-sokugi-taikyoku-1-2-3",
+    "name": "Sokugi taikyoku 1, 2, 3",
+    "detail": "",
+    "category": "kata"
+   },
+   {
+    "id": "kyu4-jiyu-kumite-52-min",
+    "name": "Jiyu kumite 5×2 min",
+    "detail": "",
+    "category": "autres"
+   },
+   {
+    "id": "kyu4-stamina-80-80-40",
+    "name": "Stamina 80/80/40",
+    "detail": "",
+    "category": "autres"
+   }
+  ]
+ },
+ {
+  "id": "kyu3",
+  "label": "3e kyu",
+  "kind": "kyu",
+  "belt": "green",
+  "stripe": true,
+  "beltName": "Ceinture verte barrette",
+  "techniques": [
+   {
+    "id": "kyu3-kake-dachi",
+    "name": "Kake dachi",
+    "detail": "",
+    "category": "positions"
+   },
+   {
+    "id": "kyu3-chudan-hiji-uchi",
+    "name": "Chudan hiji uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu3-age-hiji-uchi",
+    "name": "Age hiji uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu3-ushiro-hiji-uchi",
+    "name": "Ushiro hiji uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu3-oroshi-hiji-uchi",
+    "name": "Oroshi hiji uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu3-chudan-mae-hiji-uchi",
+    "name": "Chudan mae hiji uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu3-shuto-juji-uke-jodan-gedan",
+    "name": "Shuto juji uke jodan/gedan",
+    "detail": "",
+    "category": "blocages"
+   },
+   {
+    "id": "kyu3-mae-kakato-geri-jodan-chudan-gedan",
+    "name": "Mae kakato geri jodan/chudan/gedan",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "kyu3-pinan-sono-yon",
+    "name": "Pinan sono yon",
+    "detail": "",
+    "category": "kata"
+   },
+   {
+    "id": "kyu3-jiyu-kumite-102-min",
+    "name": "Jiyu kumite 10×2 min",
+    "detail": "",
+    "category": "autres"
+   },
+   {
+    "id": "kyu3-stamina-90-90-45",
+    "name": "Stamina 90/90/45",
+    "detail": "",
+    "category": "autres"
+   }
+  ]
+ },
+ {
+  "id": "kyu2",
+  "label": "2e kyu",
+  "kind": "kyu",
+  "belt": "brown",
+  "stripe": false,
+  "beltName": "Ceinture marron",
+  "techniques": [
+   {
+    "id": "kyu2-hiraken-tsuki",
+    "name": "Hiraken tsuki",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu2-hiraken-oroshi-uchi",
+    "name": "Hiraken oroshi uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu2-haishu-uchi",
+    "name": "Haishu uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu2-hiraken-mawashi-uchi",
+    "name": "Hiraken mawashi uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu2-age-jodan-tsuki",
+    "name": "Age jodan tsuki",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu2-koken-uchi",
+    "name": "Koken uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu2-koken-uke-jodan-chudan-gedan",
+    "name": "Koken uke jodan/chudan/gedan",
+    "detail": "",
+    "category": "blocages"
+   },
+   {
+    "id": "kyu2-tobi-mae-geri",
+    "name": "Tobi mae geri",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "kyu2-tobi-nidan-geri",
+    "name": "Tobi nidan geri",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "kyu2-pinan-sono-go",
+    "name": "Pinan sono go",
+    "detail": "",
+    "category": "kata"
+   },
+   {
+    "id": "kyu2-gekisai-dai",
+    "name": "Gekisai dai",
+    "detail": "",
+    "category": "kata"
+   },
+   {
+    "id": "kyu2-jiyu-kumite-152-min",
+    "name": "Jiyu kumite 15×2 min",
+    "detail": "",
+    "category": "autres"
+   },
+   {
+    "id": "kyu2-ren-raku-en-9-techniques",
+    "name": "Ren raku en 9 techniques",
+    "detail": "",
+    "category": "autres"
+   },
+   {
+    "id": "kyu2-stamina-100-100-50",
+    "name": "Stamina 100/100/50",
+    "detail": "",
+    "category": "autres"
+   }
+  ]
+ },
+ {
+  "id": "kyu1",
+  "label": "1er kyu",
+  "kind": "kyu",
+  "belt": "brown",
+  "stripe": true,
+  "beltName": "Ceinture marron barrette",
+  "techniques": [
+   {
+    "id": "kyu1-ryuto-ken-tsuki",
+    "name": "Ryuto ken tsuki",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu1-naka-yubi-ippon-ken-tsuki",
+    "name": "Naka yubi ippon ken tsuki",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu1-oya-yubi-ippon-ken-uchi",
+    "name": "Oya yubi ippon ken uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu1-hitosashi-yubi-ippon-ken-tsuki",
+    "name": "Hitosashi yubi ippon ken tsuki",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "kyu1-kake-uke",
+    "name": "Kake uke",
+    "detail": "",
+    "category": "blocages"
+   },
+   {
+    "id": "kyu1-haito-chudan-uchi-uke",
+    "name": "Haito chudan uchi uke",
+    "detail": "",
+    "category": "blocages"
+   },
+   {
+    "id": "kyu1-jodan-uchi-haisoku-geri",
+    "name": "Jodan uchi haisoku geri",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "kyu1-oroshi-uchi-kakato-geri",
+    "name": "Oroshi uchi kakato geri",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "kyu1-tobi-yoko-geri",
+    "name": "Tobi yoko geri",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "kyu1-oroshi-soto-kakato-geri",
+    "name": "Oroshi soto kakato geri",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "kyu1-yantsu",
+    "name": "Yantsu",
+    "detail": "",
+    "category": "kata"
+   },
+   {
+    "id": "kyu1-tsuki-no-kata",
+    "name": "Tsuki no kata",
+    "detail": "",
+    "category": "kata"
+   },
+   {
+    "id": "kyu1-jiyu-kumite-202-min",
+    "name": "Jiyu kumite 20×2 min",
+    "detail": "",
+    "category": "autres"
+   },
+   {
+    "id": "kyu1-ren-raku-a-b",
+    "name": "Ren raku A/B",
+    "detail": "",
+    "category": "autres"
+   }
+  ]
+ },
+ {
+  "id": "dan1",
+  "label": "Shodan · 1er dan",
+  "kind": "dan",
+  "belt": "black",
+  "stripe": false,
+  "beltName": "Ceinture noire",
+  "techniques": [
+   {
+    "id": "dan1-morote-haito-uchi",
+    "name": "Morote haito uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "dan1-haito-uchi",
+    "name": "Haito uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "dan1-blocages-avec-les-jambes",
+    "name": "Blocages avec les jambes",
+    "detail": "",
+    "category": "blocages"
+   },
+   {
+    "id": "dan1-morote-kake-uke",
+    "name": "Morote kake uke",
+    "detail": "",
+    "category": "blocages"
+   },
+   {
+    "id": "dan1-osa-uke",
+    "name": "Osa uke",
+    "detail": "",
+    "category": "blocages"
+   },
+   {
+    "id": "dan1-morote-haito-uchi-uke",
+    "name": "Morote haito uchi uke",
+    "detail": "",
+    "category": "blocages"
+   },
+   {
+    "id": "dan1-kake-geri",
+    "name": "Kake geri",
+    "detail": "kakato",
+    "category": "jambes"
+   },
+   {
+    "id": "dan1-ushiro-mawashi-geri",
+    "name": "Ushiro mawashi geri",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "dan1-tensho",
+    "name": "Tensho",
+    "detail": "",
+    "category": "kata"
+   },
+   {
+    "id": "dan1-saiha",
+    "name": "Saiha",
+    "detail": "",
+    "category": "kata"
+   },
+   {
+    "id": "dan1-ura-taikyoku-1-2-3",
+    "name": "Ura taikyoku 1, 2, 3",
+    "detail": "",
+    "category": "kata"
+   },
+   {
+    "id": "dan1-jiyu-kumite-302-min",
+    "name": "Jiyu kumite 30×2 min",
+    "detail": "",
+    "category": "autres"
+   }
+  ]
+ },
+ {
+  "id": "dan2",
+  "label": "Nidan · 2e dan",
+  "kind": "dan",
+  "belt": "black",
+  "stripe": false,
+  "beltName": "Ceinture noire",
+  "techniques": [
+   {
+    "id": "dan2-toho-uchi",
+    "name": "Toho uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "dan2-keiko-uchi",
+    "name": "Keiko uchi",
+    "detail": "",
+    "category": "bras"
+   },
+   {
+    "id": "dan2-hiji-uke",
+    "name": "Hiji uke",
+    "detail": "",
+    "category": "blocages"
+   },
+   {
+    "id": "dan2-gedan-shotei-morote-uke",
+    "name": "Gedan shotei morote uke",
+    "detail": "",
+    "category": "blocages"
+   },
+   {
+    "id": "dan2-gedan-shuto-morote-uke",
+    "name": "Gedan shuto morote uke",
+    "detail": "",
+    "category": "blocages"
+   },
+   {
+    "id": "dan2-tobi-ushiro-geri",
+    "name": "Tobi ushiro geri",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "dan2-tobi-ushiro-mawashi-geri",
+    "name": "Tobi ushiro mawashi geri",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "dan2-tobi-mawashi-geri",
+    "name": "Tobi mawashi geri",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "dan2-age-kakato-ushiro-geri",
+    "name": "Age kakato ushiro geri",
+    "detail": "",
+    "category": "jambes"
+   },
+   {
+    "id": "dan2-kanku-dai",
+    "name": "Kanku dai",
+    "detail": "",
+    "category": "kata"
+   },
+   {
+    "id": "dan2-gekisai-sho",
+    "name": "Gekisai sho",
+    "detail": "",
+    "category": "kata"
+   },
+   {
+    "id": "dan2-seienchin",
+    "name": "Seienchin",
+    "detail": "",
+    "category": "kata"
+   },
+   {
+    "id": "dan2-pinan-sono-ichi-ura",
+    "name": "Pinan sono ichi ura",
+    "detail": "",
+    "category": "kata"
+   },
+   {
+    "id": "dan2-40-man-kumite",
+    "name": "40-man kumite",
+    "detail": "",
+    "category": "autres"
+   }
+  ]
+ },
+ {
+  "id": "dan3",
+  "label": "Sandan · 3e dan",
+  "kind": "dan",
+  "belt": "black",
+  "stripe": false,
+  "beltName": "Ceinture noire",
+  "techniques": [
+   {
+    "id": "dan3-sushi-ho",
+    "name": "Sushi ho",
+    "detail": "",
+    "category": "kata"
+   },
+   {
+    "id": "dan3-garyu",
+    "name": "Garyu",
+    "detail": "",
+    "category": "kata"
+   },
+   {
+    "id": "dan3-seipai",
+    "name": "Seipai",
+    "detail": "",
+    "category": "kata"
+   },
+   {
+    "id": "dan3-pinan-sono-ni-ura",
+    "name": "Pinan sono ni ura",
+    "detail": "",
+    "category": "kata"
+   },
+   {
+    "id": "dan3-50-man-kumite-tameshiwari-premiers-secours",
+    "name": "50-man kumite, tameshiwari, premiers secours",
+    "detail": "",
+    "category": "autres"
+   }
+  ]
+ }
+]
