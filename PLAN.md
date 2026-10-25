@@ -27,7 +27,9 @@ Agents : voir `CLAUDE.md` › « Équipe d'agents ». Après chaque phase : `tes
 ## Phase 2 · Contenu et révision
 - [ ] Illustrer les 9 techniques du 10e kyu (4 images chacune, hikite à la poitrine) · toi + `frontend`
 - [ ] Textes des fiches (étapes, points clés, erreurs) pour le 10e kyu · toi (le karatéka, c'est toi)
-- [ ] Lexique : liste par catégorie + mode cartes « À revoir / Je sais » (répétition espacée simple) · `backend` + `frontend`
+- [x] Lexique : liste par catégorie (écran `lexicon.tsx`, données `src/content/lexicon.ts`)
+- [x] Explication courte de chaque technique du 10e au 1er kyu (champ `description`, carte « En bref » de la fiche technique) · à faire relire par le sensei
+- [ ] Lexique : mode cartes « À revoir / Je sais » (répétition espacée simple) · `backend` + `frontend`
 - [ ] Examen blanc : QCM généré depuis le syllabus et le lexique, score, explications · `backend` + `frontend`
 - [ ] Compteur japonais à voix haute (ichi, ni, san…) avec expo-speech · `frontend`
 - [ ] Détailler le 9e kyu, puis grade par grade

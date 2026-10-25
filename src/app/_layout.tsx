@@ -29,6 +29,7 @@ function Navigator() {
       <Stack.Screen name="grade/[id]" options={{ title: '' }} />
       <Stack.Screen name="technique/[id]" options={{ title: '' }} />
       <Stack.Screen name="profile" options={{ title: 'Profil' }} />
+      <Stack.Screen name="lexicon" options={{ title: 'Lexique' }} />
       <Stack.Screen name="session/new" options={{ presentation: 'modal', headerShown: false }} />
     </Stack>
   );
