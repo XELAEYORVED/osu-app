@@ -62,9 +62,13 @@ export default function TechniqueScreen() {
         </>
       ) : (
         <Card>
-          <Text style={[type.headline, { color: colors.text }]}>Illustrations à venir</Text>
-          <Text style={[type.subhead, { color: colors.textSecondary, marginTop: 4 }]}>
-            {t.detail ? `${t.detail}. ` : ''}Les 4 images clés de cette technique arrivent dans une prochaine version.
+          <Text style={[type.overline, { color: colors.textSecondary }]}>En bref</Text>
+          {t.detail ? <Text style={[type.headline, { color: colors.text, marginTop: 4 }]}>{t.detail}</Text> : null}
+          <Text style={[type.body, { color: colors.text, marginTop: space.sm }]}>
+            {t.description ?? 'L’explication de cette technique arrive bientôt.'}
+          </Text>
+          <Text style={[type.footnote, { color: colors.textSecondary, marginTop: space.md }]}>
+            Les 4 images clés arrivent dans une prochaine version.
           </Text>
         </Card>
       )}
