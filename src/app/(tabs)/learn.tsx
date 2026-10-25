@@ -23,7 +23,7 @@ export default function LearnScreen() {
 
       <View style={{ flexDirection: 'row', gap: space.md }}>
         <Tile title="Examen blanc" subtitle="Bientôt" icon="check" color={colors.success} />
-        <Tile title="Lexique" subtitle="Bientôt" icon="book" color="#64D2FF" />
+        <Tile title="Lexique" subtitle="Les mots clés" icon="book" color="#64D2FF" onPress={() => router.push('/lexicon')} />
       </View>
 
       <Pressable onPress={() => router.push({ pathname: '/grade/[id]', params: { id: goal.id } })} style={{ marginTop: space.md }}>
@@ -57,13 +57,21 @@ export default function LearnScreen() {
   );
 }
 
-function Tile({ title, subtitle, icon, color }: { title: string; subtitle: string; icon: 'check' | 'book'; color: string }) {
+type TileProps = { title: string; subtitle: string; icon: 'check' | 'book'; color: string; onPress?: () => void };
+
+function Tile({ title, subtitle, icon, color, onPress }: TileProps) {
   return (
-    <View style={styles.tile}>
+    <Pressable
+      onPress={onPress}
+      disabled={!onPress}
+      style={({ pressed }) => [styles.tile, pressed && { opacity: 0.7 }]}
+      accessibilityRole={onPress ? 'button' : undefined}
+      accessibilityLabel={`${title}, ${subtitle}`}
+    >
       <Icon name={icon} size={22} color={color} />
       <Text style={[type.headline, { color: colors.text, marginTop: space.lg }]}>{title}</Text>
       <Text style={[type.footnote, { color: colors.textSecondary }]}>{subtitle}</Text>
-    </View>
+    </Pressable>
   );
 }
 
